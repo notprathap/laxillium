@@ -1,4 +1,4 @@
-# New Project
+# Laxillium
 
 A blank project ready for development.
 
